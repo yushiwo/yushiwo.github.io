@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<font color="#000000" size=6 >郑睿</font>  
+<font color="#000000" size=6 face="微软雅黑">资深Android开发工程师</font>
 
-You can use the [editor on GitHub](https://github.com/yushiwo/yushiwo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
++ 邮箱：zhengrui504@163.com
++ 联系方式：13625810317
++ github：[https://github.com/yushiwo](https://github.com/yushiwo)
++ 博客：
+	- 简书：[https://www.jianshu.com/u/04d328e48fb5](https://www.jianshu.com/u/04d328e48fb5)
+	- 掘金：[https://juejin.im/user/581bee048ac247004fe10cab/posts](https://juejin.im/user/581bee048ac247004fe10cab/posts)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 关于我
++ 研究生学历
++ 4年工作经验
++ Android开发工程师（4年）
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 工作经历
+<font color="#000000" size=4>**网易杭州网络有限公司**</font>   （2014.07 - 至今）
 
-```markdown
-Syntax highlighted code block
+### 网易卡搭编程
++ 项目时间：2017.12 - 至今
++ 项目简介：创意编程社区移动端App，MVVM开发框架，组件化开发
++ 我的职责：
+	- 基于AAC设计开发框架
+	- 主要负责首页、作业提交和下载管理模块功能开发
+	- 采用约束布局实现布局层级优化，负责应用性能调优
+	- 项目管理，参与从需求提出到发包上线整体流程
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 网易100分
++ 项目时间：2016.09 - 至今
++ 项目简介：中小学个性化辅导平台移动端App，MVP开发框架，组件化开发
++ 我的职责
+	- 主要负责移动端业务开发，涉及试卷扫码、互动直播、批改、二维码扫描、图片选择器、地址选择器等模块开发。其中互动直播上麦和在线答题器功能，大大提高了直播体验。
 
-1. Numbered
-2. List
+### 网易青果
++ 项目时间：2014.07 - 2016.09
++ 项目简介：基于青果摄像机的直播互动平台移动端App，包含跨平台的轻应用和独立App，采用MVC开发框架。
++ 我的职责：
+	- Android端负责人，负责任务分配、组间沟通和整体流程跟进
+	- 主要业务开发，涉及直播、录像模块功能开发
+	- 电信sdk需求沟通评审，设计开发
 
-**Bold** and _Italic_ and `Code` text
+## 技术经历
++ java + lua开发青果轻应用，涉及跨平台开发
++ 有智能硬件App开发经验
++ 基于aac设计开发框架
++ 视频播放相关内容有经验
++ 熟悉组件化开发
++ 现今专注于模块化和性能调优
 
-[Link](url) and ![Image](src)
-```
+## 自我介绍
++ 热爱技术，专注性能
++ 有责任心，较好的学习和沟通能力
++ 爱健身，会打球
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yushiwo/yushiwo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
