@@ -1,6 +1,6 @@
-<font color="#000000" size=6 >郑睿</font>  
-<font color="#000000" size=6 face="微软雅黑">资深Android开发工程师</font>
-
+## 基本信息
++ 姓名：郑睿
++ 职位：资深Android开发工程师
 + 邮箱：zhengrui504@163.com
 + 联系方式：13625810317
 + github：[https://github.com/yushiwo](https://github.com/yushiwo)
@@ -15,7 +15,7 @@
 
 
 ## 工作经历
-<font color="#000000" size=4>**网易杭州网络有限公司**</font>   （2014.07 - 至今）
+### 网易杭州网络有限公司 （2014.07 - 至今）
 
 ### 网易卡搭编程
 + 项目时间：2017.12 - 至今
