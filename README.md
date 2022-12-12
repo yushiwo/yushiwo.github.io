@@ -4,8 +4,7 @@
 + 邮箱：zhengrui504@163.com
 + 联系方式：13625810317
 + github：[https://github.com/yushiwo](https://github.com/yushiwo)
-+ 博客：
-	- 掘金：[https://juejin.im/user/581bee048ac247004fe10cab/posts](https://juejin.im/user/581bee048ac247004fe10cab/posts)
+
 
 ## 关于我
 + 研究生学历
@@ -14,11 +13,11 @@
 
 
 ## 工作经历
-### 网易 （2021.06 - 至今）	资深Android开发、业务线客户端负责人
+### 网易 （2021.06 - 至今）	资深Android开发、业务线客户端负责人（p4-3）
 ### vivo （2019.08 - 2021.06）	应用开发工程师、架构维度负责人
 ### 奇志科技 （2019.06 - 2019.08）	Android端负责人
 ### OTCBTC （2018.08 - 2019.06）	Android端负责人
-### 网易杭州网络有限公司 （2014.07 - 2018.08）资深Android开发
+### 网易杭州网络有限公司 （2014.07 - 2018.08）资深Android开发（p4-1）
 
 ## 项目经历
 
